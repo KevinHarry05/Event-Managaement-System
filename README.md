@@ -94,4 +94,4 @@ Edit
 
 ---
 
-Once saved, this file will render beautifully on GitHub or any Markdown viewer. Let me know if you'd
+Once saved, this file will render beautifully on GitHub or any Markdown viewer.
