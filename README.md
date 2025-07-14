@@ -87,11 +87,3 @@ Feel free to fork, modify, and enhance!
 
 📄 License
 This project is open-source and free to use under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Once saved, this file will render beautifully on GitHub or any Markdown viewer.
